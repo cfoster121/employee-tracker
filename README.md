@@ -1,6 +1,6 @@
-# Title
+# Employee Tracker
 
-Employee Tracker
+
 
 ## Getting Started
 
