@@ -7,7 +7,8 @@
 This is a CLI application that allows the user to view departments, roles, and employees in a given database. The user is also able to add new departments, roles, and employees, and update existing employee roles. 
 
 ### Prerequisites
-[Node](https://nodejs.org/en/)
+* [Node](https://nodejs.org/en/)
+* [MySql](https://dev.mysql.com/doc/)
 
 ### Installing
 
