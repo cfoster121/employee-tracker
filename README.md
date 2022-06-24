@@ -23,6 +23,9 @@ This is a CLI application that allows the user to view departments, roles, and e
 * The user will then be prompted to choose different options and run the application
 * Watch video [here](https://youtu.be/sBln5avzD1Y)
 
+![](assets/images/tracker1.png)  
+  
+![](assets/images/tracker2.png)
 
 ## Built With
 
